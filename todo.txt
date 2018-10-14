@@ -1,0 +1,10 @@
+Triangle
+Rectangle
+Square                          4 Zone
+Circle
+------------------
+size                            3 Zone
+------------------
+shape      
+------------------
+color                           
